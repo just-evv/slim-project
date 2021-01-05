@@ -1,0 +1,11 @@
+{
+    "name": "just-evv/slim-project",
+    "description": "microframework-exercise",
+    "authors": [
+        {
+            "name": "just-evv",
+            "email": "just-ev@outlook.com"
+        }
+    ],
+    "require": {}
+}
