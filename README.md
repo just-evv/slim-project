@@ -1,1 +1,1 @@
-# slim-roject
+slim-project
